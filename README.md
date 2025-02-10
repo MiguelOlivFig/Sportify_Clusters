@@ -35,8 +35,17 @@ Programming Language: **Python**
 
 ## The repository is organized as follows:
 
-OLD: contains old files
-data: contains all data
-presentation: contains the presentation of the project
-notebooks (.ipynb): named with a numerical preffix translating the logical order of the work
-requirements.txt: necessary Python libraries to run the notebooks.
+- Project Statement
+- Notebook (.ipynb):
+  - data collection (importing libraries, loading and merging datasets)
+  - data exploration, describing the data available and extracting meaningful insights that may be helpful in addressing the problem at hand
+  - preprocessing:
+    - data cleaning, transformation, and feature engineering
+    - business-related transformations and creation of new features
+    - data prepared for clustering
+  - modeling:
+    - applied K-Means algorithm on "Digital_Contact" and "Products" datasets
+    - determined optimal number of clusters using the elbow method
+    - optional perspectives explored for additional insights 
+- Presentation
+- Requirements.txt: necessary Python libraries to run the notebooks.
