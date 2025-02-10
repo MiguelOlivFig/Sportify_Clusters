@@ -48,4 +48,3 @@ Programming Language: **Python**
     - determined optimal number of clusters using the elbow method
     - optional perspectives explored for additional insights 
 - Presentation
-- Requirements.txt: necessary Python libraries to run the notebooks.
