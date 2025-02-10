@@ -18,3 +18,16 @@ Identify new marketing opportunities
 Optimize product offerings for better alignment with customer preferences
 Enhance the overall customer experience
 This project showcases the power of data analytics and machine learning in creating actionable insights to improve customer engagement and drive business success.
+
+# Technologies Used:
+Programming Language: **Python**
+- Libraries/Frameworks:
+- **Pandas** (Data manipulation and analysis)
+- **NumPy** (Numerical operations)
+- **Matplotlib** & **Seaborn** (Data visualization)
+- Scikit-learn (ML, including clustering, dimensionality reduction, and model evaluation)
+- SciPy (Hierarchical clustering)
+- Google Colab (Cloud-based notebook environment)
+- Jupyter Notebook (Interactive development environment)
+- Warnings (Controlling warning messages)
+- Datetime (Handling date-related data)
