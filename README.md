@@ -1,7 +1,7 @@
 # Sportify - K-Means Clustering
 Unsupervised Learning: K-Means Clustering - develop fitted marketing strategies to each segment
 
-## Sportify - Customer Segmentation and Insights
+## Sportify - Customer Segmentation and Insights:
 Project Overview: Welcome to **Sportify**, your go-to destination for premium sports products and gear. Our mission is to provide athletes and enthusiasts with the best selection of sports equipment, tailored to their diverse needs.
 
 In this project, we leveraged three crucial datasets to gain deeper insights into our customer base and enhance our marketing strategies. The datasets include:
@@ -20,7 +20,7 @@ By applying **clustering techniques** to these datasets, we identified key custo
 
 This project showcases the power of data analytics and machine learning in creating actionable insights to improve customer engagement and drive business success.
 
-# Technologies Used:
+## Technologies Used:
 Programming Language: **Python**
 - Libraries/Frameworks:
 - **Pandas** (Data manipulation and analysis)
@@ -32,3 +32,11 @@ Programming Language: **Python**
 - **Jupyter Notebook** (Interactive development environment)
 - **Warnings** (Controlling warning messages)
 - **Datetime** (Handling date-related data)
+
+## The repository is organized as follows:
+
+OLD: contains old files
+data: contains all data
+presentation: contains the presentation of the project
+notebooks (.ipynb): named with a numerical preffix translating the logical order of the work
+requirements.txt: necessary Python libraries to run the notebooks.
