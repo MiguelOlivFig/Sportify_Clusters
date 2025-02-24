@@ -47,4 +47,4 @@ Programming Language: **Python**
     - applied K-Means algorithm on "Digital_Contact" and "Products" datasets
     - determined optimal number of clusters using the elbow method
     - optional perspectives explored for additional insights 
-- Presentation
+- Report
