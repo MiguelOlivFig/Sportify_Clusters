@@ -1,5 +1,5 @@
 # Sportify - K-Means Clustering
-Unsupervised Learning: K-Means Clustering - develop fitted marketing strategies to each segment
+Unsupervised Learning: K-Means Clustering - development of fitted marketing strategies to different segments
 
 ## Sportify - Customer Segmentation and Insights:
 Project Overview: Welcome to **Sportify**, your go-to destination for premium sports products and gear. Our mission is to provide athletes and enthusiasts with the best selection of sports equipment, tailored to their diverse needs.
