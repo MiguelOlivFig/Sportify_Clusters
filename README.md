@@ -35,6 +35,7 @@ Programming Language: **Python**
 
 ## The repository is organized as follows:
 
+- Data: contains all the data files used for the project
 - Project Statement
 - Notebook (.ipynb):
   - data collection (importing libraries, loading and merging datasets)
