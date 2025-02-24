@@ -22,6 +22,7 @@ This project showcases the power of data analytics and machine learning in creat
 
 ## Technologies Used:
 Programming Language: **Python**
+
 Libraries/Frameworks:
 - **Pandas** (Data manipulation and analysis)
 - **NumPy** (Numerical operations)
