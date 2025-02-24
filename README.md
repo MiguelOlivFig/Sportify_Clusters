@@ -2,8 +2,9 @@
 Unsupervised Learning: K-Means Clustering - development of fitted marketing strategies to different segments
 
 ## Sportify - Customer Segmentation and Insights:
-Project Overview: Welcome to **Sportify**, your go-to destination for premium sports products and gear. Our mission is to provide athletes and enthusiasts with the best selection of sports equipment, tailored to their diverse needs.
+Project overview: "Welcome to **Sportify**, your go-to destination for premium sports products and gear. Our mission is to provide athletes and enthusiasts with the best selection of sports equipment, tailored to their diverse needs."
 
+**Data Description:**
 In this project, we leveraged three crucial datasets to gain deeper insights into our customer base and enhance our marketing strategies. The datasets include:
 
 **Digital Interactions**: A comprehensive collection of customer interactions across multiple online platforms, including emails, social media engagement, and in-app activities.
