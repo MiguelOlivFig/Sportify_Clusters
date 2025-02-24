@@ -7,9 +7,9 @@ Unsupervised Learning: K-Means Clustering - development of fitted marketing stra
 
 **Data Description:** <br>
 In this project, we leveraged three crucial datasets to gain deeper insights into our customer base and enhance our marketing strategies:
-- **Digital Interactions**: A comprehensive collection of customer interactions across multiple online platforms, including emails, social media engagement, and in-app activities.
-- **Sports Product Consumption**: Data reflecting spending patterns across various sports products and activities, offering a view into product preferences.
-- **Demographics**: Insights into customer characteristics such as age, city, education level, and dependents, allowing for a better understanding of customer personas.
+- **Digital Interactions**: A comprehensive collection of customer interactions across multiple online platforms, including emails, social media engagement, and in-app activities
+- **Sports Product Consumption**: Data reflecting spending patterns across various sports products and activities, offering a view into product preferences
+- **Demographics**: Insights into customer characteristics such as age, city, education level, and dependents, allowing for a better understanding of customer personas
 
 By applying **clustering techniques** to these datasets, we identified key customer segments. This enables us to develop tailored marketing strategies and product offerings that resonate with the unique needs and preferences of each group.
 
